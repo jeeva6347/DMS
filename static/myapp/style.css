@@ -1,0 +1,16 @@
+
+#nav{
+    background-color: brown !important;
+    padding: 13px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3)
+}
+#form{
+  position: relative;
+  top: 80px;
+}
+
